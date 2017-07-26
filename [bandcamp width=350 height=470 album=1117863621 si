@@ -1,0 +1,32 @@
+[bandcamp width=350 height=470 album=1117863621 size=large bgcol=ffffff linkcol=0687f5 tracklist=false]
+[bandcamp width=350 height=470 album=1117863621 size=large bgcol=ffffff linkcol=0687f5 tracklist=false]
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1117863621/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://harmonywoods.bandcamp.com/album/nothing-special">Nothing Special by Harmony Woods</a></iframe>
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1117863621/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://harmonywoods.bandcamp.com/album/nothing-special">Nothing Special by Harmony Woods</a></iframe>
+
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3543518706/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://secretmountain.bandcamp.com/album/shift-happens">Shift Happens by Secret Mountain</a></iframe>
+
+<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=1117863621/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://harmonywoods.bandcamp.com/album/nothing-special">Nothing Special by Harmony Woods</a></iframe>
+
+>>>
+collects: src (album no.)
+
+and href should be given (album name )
+
+
+std html code:
+
+<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album="ALBUMNO"/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="ALBUMLINK">"ALBUM NAME"</a></iframe>
+
+[bandcamp width=200 height=200 album="" size=large bgcol=ffffff linkcol=0687f5 tracklist=false]
+
+
+[soundcloud url="https://api.soundcloud.com/users/171557459" params="auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" width="100%" height="450" iframe="true" /]
+
+[soundcloud url="https://api.soundcloud.com/users/293169793" params="auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" width="100%" height="450" iframe="true" /]
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/293169793&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+
